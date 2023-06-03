@@ -1,4 +1,4 @@
-# secured_generated_password
+# * secured_generated_password *
 
 This is a simple web application that generates random passwords based on user-selected criteria. It allows users to generate strong and secure passwords to enhance their online security.
 
