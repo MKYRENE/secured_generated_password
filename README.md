@@ -25,7 +25,7 @@ This is a simple web application that generates random passwords based on user-s
 
 ## Deployment
 
-The live version of the application can be accessed at [Live Demo]
+The live version of the application can be accessed at [Live Demo] https://mkyrene.github.io/secured_generated_password/
 ## Screenshots
 
 ![Password Generator](./Assets/Screenshot%202023-06-02%20at%2010.40.12%20PM.png)
